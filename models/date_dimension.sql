@@ -21,8 +21,7 @@ select
 
     {{get_season('STARTED_AT')}} AS STATION_OF_YEAR -- Macro to retrieve station of the year 
 
-from 
-{{ source('demo', 'bike') }}
+from {{ ref('stg_bike') }}
 
 ) 
 
