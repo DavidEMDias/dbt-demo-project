@@ -6,5 +6,5 @@ The dbt project was structured with both development (dev) and production (prod)
 
 To maintain best practices in data engineering and collaborative development, I implemented version control using GitHub, simulating a full dev and prod environment workflow. This setup allowed for controlled code promotion, robust testing, and complete traceability across the project’s lifecycle.
 
-![Pipeline Illustration](https://github.com/user-attachments/assets/fdb4d291-6900-417f-a5e8-88582bfd3cfc)
+
 
